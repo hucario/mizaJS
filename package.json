@@ -1,0 +1,33 @@
+{
+  "name": "mizajs",
+  "version": "0.0.1",
+  "description": "js port of github.com/thomas-xin/Miza",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hucario/mizaJS.git"
+  },
+  "keywords": [
+    "pain"
+  ],
+  "author": "hucario",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hucario/mizaJS/issues"
+  },
+  "homepage": "https://github.com/hucario/mizaJS#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "deps-ok": "^1.4.1",
+    "discord.js": "^12.5.3",
+    "dnode": "^1.2.2",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "better-docs": "^2.3.2"
+  }
+}
